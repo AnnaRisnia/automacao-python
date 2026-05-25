@@ -1,0 +1,26 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Arquivos de dados (não versionar arquivos Excel com dados reais)
+*.xlsx
+*.xls
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
