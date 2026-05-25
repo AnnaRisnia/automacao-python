@@ -21,7 +21,7 @@ Projeto de automação desenvolvido em Python para envio diário de relatório d
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/AnnaRisnia/automacao-python.git
    ```
 
 2. Instale as dependências:
